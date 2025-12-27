@@ -60,8 +60,7 @@ s3-static-website-demo/
 ### Private Page
 ![Private Page](screenshots/private.png)
 
-### Access Denied Page
-![Access Denied Page](screenshots/error.png)
+
 
 ---
 
