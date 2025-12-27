@@ -20,7 +20,10 @@ s3-static-website-demo/
 ├── secret.html        # Private page (restricted access)
 ├── cloud.png          # Background image for public page
 ├── lock.jpg           # Background image for private page
-└── style.css          # Stylesheet 
+├── style.css          # Stylesheet 
+└── screenshots/
+      ├── public.png
+      └── private.png
 
 ---
 
